@@ -16,6 +16,7 @@ void loadItems(vector<Retail>  &retailItems);
 
 int main()
 {
+
 	vector<Retail> retailItems;
 	loadItems(retailItems);
 	
